@@ -1,0 +1,25 @@
+
+
+.space{
+    text-align: end;
+    border-radius: 10px;
+}
+.equal{
+    background-color: aquamarine;
+}
+.black{
+    background-color: black;
+    color: white;
+}
+table{
+
+    text-align: center;
+    height: 450px;
+    width: 650;
+}
+td{
+    background-color: #797070;
+    width: 66px;
+    border: 1px solid #797070;
+    border-radius: 10px;
+}
